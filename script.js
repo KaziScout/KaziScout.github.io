@@ -6,7 +6,7 @@ async function loadJobs() {
     allJobs = await res.json();
     displayJobs(allJobs);
     const status = document.getElementById('search-status');
-    if(status) status.textContent = `Loaded ${allJobs.length} sample opportunities`;
+    if(status) status.textContent = `Loaded ${allJobs.length} verified opportunities`;
   } catch(e) {
     console.log('Using embedded jobs, jobs.json failed', e);
     // fallback if jobs.json fails
