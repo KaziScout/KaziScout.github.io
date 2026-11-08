@@ -1,57 +1,42 @@
 [
   {
     "title": "Safaricom Careers - Official",
-    "company": "Safaricom PLC",
-    "location": "Nairobi / Kenya",
-    "tags": ["official", "safaricom", "kenya"],
-    "description": "All real Safaricom jobs. Apply ONLY on official portal. No fees.",
+    "company": "Safaricom PLC - Nairobi / Kenya",
+    "location": "Kenya",
+    "description": "Check current vacancies on Safaricom's official careers page. Apply only there, never pay for a job. Last checked: 8 Nov 2026.",
     "source": "Safaricom",
-    "sourceUrl": "https://careers.safaricom.co.ke",
-    "eligibility": "Kenya",
-    "lastChecked": "2026-10-29"
+    "sourceUrl": "https://www.safaricom.co.ke/careers"
   },
   {
     "title": "KCB Group Careers - Official",
-    "company": "KCB Bank",
+    "company": "KCB Bank - Kenya",
     "location": "Kenya",
-    "tags": ["banking", "official"],
-    "description": "Verified KCB vacancies. Check official site daily.",
+    "description": "View open roles at KCB Group in Kenya. Create an account on their careers portal to apply. Last checked: 8 Nov 2026.",
     "source": "KCB Group",
-    "sourceUrl": "https://kcbgroup.com/careers",
-    "eligibility": "Kenya",
-    "lastChecked": "2026-10-29"
+    "sourceUrl": "https://www.kcbgroup.com/careers"
   },
   {
     "title": "Equity Bank Careers - Official",
-    "company": "Equity Bank",
+    "company": "Equity Bank - Kenya",
     "location": "Kenya",
-    "tags": ["banking", "official"],
-    "description": "Official Equity Bank jobs portal.",
+    "description": "See Equity Bank openings in Kenya. Verify the role on Equity's official site before applying. Last checked: 8 Nov 2026.",
     "source": "Equity Bank",
-    "sourceUrl": "https://equitybank.co.ke/careers",
-    "eligibility": "Kenya",
-    "lastChecked": "2026-10-29"
+    "sourceUrl": "https://equitybank.co.ke/careers"
   },
   {
     "title": "CloudFactory - Remote AI Work",
-    "company": "CloudFactory Kenya",
-    "location": "Remote - Kenya",
-    "tags": ["remote", "data", "rongai"],
-    "description": "Legit remote work for Kenyan youth. Apply via official site.",
+    "company": "CloudFactory Kenya - Remote - Kenya",
+    "location": "Remote Kenya",
+    "description": "Remote AI work for Kenyans - data labelling and annotation. Apply on CloudFactory's official site. Last checked: 8 Nov 2026.",
     "source": "CloudFactory",
-    "sourceUrl": "https://www.cloudfactory.com/careers",
-    "eligibility": "Remote Kenya",
-    "lastChecked": "2026-10-29"
+    "sourceUrl": "https://www.cloudfactory.com"
   },
   {
     "title": "Upwork - Start Freelancing",
-    "company": "Upwork",
-    "location": "Remote Worldwide",
-    "tags": ["freelance", "remote"],
-    "description": "Official freelance marketplace. Free profile, escrow protection.",
+    "company": "Upwork - Remote Worldwide",
+    "location": "Open to Kenya",
+    "description": "Start freelancing worldwide. Create a free profile and bid for jobs. No fee to join. Last checked: 8 Nov 2026.",
     "source": "Upwork",
-    "sourceUrl": "https://www.upwork.com",
-    "eligibility": "Open to Kenya",
-    "lastChecked": "2026-10-29"
+    "sourceUrl": "https://www.upwork.com"
   }
 ]
