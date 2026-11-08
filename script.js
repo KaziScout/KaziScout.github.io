@@ -27,7 +27,7 @@ function displayJobs(jobs) {
       <span style="background:#e0ffe0;padding:3px 8px;border-radius:10px;font-size:12px">${j.type || 'Opportunity'}</span>
       <h3>${j.title}</h3>
       <div>${j.company} - ${j.location}</div>
-      <p>${j.eligibility || ''}</p>
+      <p>${j.description || j.eligibility || ''}</p>
       <div><strong>Source:</strong> <a href="${j.sourceLink}" target="_blank">${j.source}</a></div>
       <a href="${j.sourceLink}" target="_blank" style="background:#16a34a;color:white;padding:8px 12px;border-radius:5px;text-decoration:none;display:inline-block;margin-top:10px">Apply Official</a>
     </div>
